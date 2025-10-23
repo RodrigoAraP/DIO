@@ -22,9 +22,9 @@ namespace Propriedades__Metodos_e_Contrutores.Models
         public void ListarAlunos()
         {
             Console.WriteLine($"Alunos do curso: {Nome}");
-            foreach (Pessoa aluno in Alunos)
+            for (int i = 0; i < Alunos.Count; i++)
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                Console.WriteLine($"{i + 1} - {Alunos[i].NomeCompleto}.");
             }
         }
     }
