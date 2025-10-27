@@ -122,6 +122,7 @@ tools/**
 !.vscode/extensions.json
 *.code-workspace
 .history/
+*.vscode
 
 ########################################
 # Logs, temp and caches
