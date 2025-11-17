@@ -1,0 +1,246 @@
+[
+  {
+    "Nome": "Mountain Bike Socks, M",
+    "Cor": "Branco",
+    "Preco": "9.50",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Mountain Bike Socks, L",
+    "Cor": "Branco",
+    "Preco": "9.50",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "AWC Logo Cap",
+    "Cor": "Colorido",
+    "Preco": "8.99",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Long-Sleeve Logo Jersey, S",
+    "Cor": "Colorido",
+    "Preco": "49.99",
+    "Tamanho": "P",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Long-Sleeve Logo Jersey, M",
+    "Cor": "Colorido",
+    "Preco": "49.99",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Long-Sleeve Logo Jersey, L",
+    "Cor": "Colorido",
+    "Preco": "49.99",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Long-Sleeve Logo Jersey, XL",
+    "Cor": "Colorido",
+    "Preco": "49.99",
+    "Tamanho": "GG",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Mens Sports Shorts, S",
+    "Cor": "Preto",
+    "Preco": "59.99",
+    "Tamanho": "P",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Mens Sports Shorts, M",
+    "Cor": "Preto",
+    "Preco": "59.99",
+    "Tamanho": "M",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Mens Sports Shorts, L",
+    "Cor": "Preto",
+    "Preco": "59.99",
+    "Tamanho": "G",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Mens Sports Shorts, XL",
+    "Cor": "Preto",
+    "Preco": "59.99",
+    "Tamanho": "GG",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Womens Tights, S",
+    "Cor": "Preto",
+    "Preco": "74.99",
+    "Tamanho": "P",
+    "Genero": "F"
+  },
+  {
+    "Nome": "Womens Tights, M",
+    "Cor": "Preto",
+    "Preco": "74.99",
+    "Tamanho": "M",
+    "Genero": "F"
+  },
+  {
+    "Nome": "Womens Tights, L",
+    "Cor": "Preto",
+    "Preco": "74.99",
+    "Tamanho": "G",
+    "Genero": "F"
+  },
+  {
+    "Nome": "Mens Bib-Shorts, S",
+    "Cor": "Colorido",
+    "Preco": "89.99",
+    "Tamanho": "P",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Mens Bib-Shorts, M",
+    "Cor": "Colorido",
+    "Preco": "89.99",
+    "Tamanho": "M",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Mens Bib-Shorts, L",
+    "Cor": "Colorido",
+    "Preco": "89.99",
+    "Tamanho": "G",
+    "Genero": "M"
+  },
+  {
+    "Nome": "Half-Finger Gloves, S",
+    "Cor": "Preto",
+    "Preco": "24.49",
+    "Tamanho": "P",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Half-Finger Gloves, M",
+    "Cor": "Preto",
+    "Preco": "24.49",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Half-Finger Gloves, L",
+    "Cor": "Preto",
+    "Preco": "24.49",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Full-Finger Gloves, S",
+    "Cor": "Preto",
+    "Preco": "37.99",
+    "Tamanho": "P",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Full-Finger Gloves, M",
+    "Cor": "Preto",
+    "Preco": "37.99",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Full-Finger Gloves, L",
+    "Cor": "Preto",
+    "Preco": "37.99",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Classic Vest, S",
+    "Cor": "Blue",
+    "Preco": "63.50",
+    "Tamanho": "P",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Classic Vest, M",
+    "Cor": "Blue",
+    "Preco": "63.50",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Classic Vest, L",
+    "Cor": "Blue",
+    "Preco": "63.50",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Womens Mountain Shorts, S",
+    "Cor": "Preto",
+    "Preco": "69.99",
+    "Tamanho": "P",
+    "Genero": "F"
+  },
+  {
+    "Nome": "Womens Mountain Shorts, M",
+    "Cor": "Preto",
+    "Preco": "69.99",
+    "Tamanho": "M",
+    "Genero": "F"
+  },
+  {
+    "Nome": "Womens Mountain Shorts, L",
+    "Cor": "Preto",
+    "Preco": "69.99",
+    "Tamanho": "G",
+    "Genero": "F"
+  },
+  {
+    "Nome": "Racing Socks, M",
+    "Cor": "Branco",
+    "Preco": "8.99",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Racing Socks, L",
+    "Cor": "Branco",
+    "Preco": "8.99",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Short-Sleeve Classic Jersey, S",
+    "Cor": "Amarelo",
+    "Preco": "53.99",
+    "Tamanho": "P",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Short-Sleeve Classic Jersey, M",
+    "Cor": "Amarelo",
+    "Preco": "53.99",
+    "Tamanho": "M",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Short-Sleeve Classic Jersey, L",
+    "Cor": "Amarelo",
+    "Preco": "53.99",
+    "Tamanho": "G",
+    "Genero": "U"
+  },
+  {
+    "Nome": "Short-Sleeve Classic Jersey, XL",
+    "Cor": "Amarelo",
+    "Preco": "53.99",
+    "Tamanho": "GG",
+    "Genero": "U"
+  }
+]

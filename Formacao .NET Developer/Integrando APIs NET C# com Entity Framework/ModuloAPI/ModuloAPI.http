@@ -1,0 +1,53 @@
+@ModuloAPI_HostAddress = http://localhost:5192
+@nome = Rodrigo
+@id = 2
+
+GET {{ModuloAPI_HostAddress}}/weatherforecast/
+
+###
+
+GET {{ModuloAPI_HostAddress}}/Usuario/ObterDataHoraAtual
+
+###
+
+GET {{ModuloAPI_HostAddress}}/Usuario/Apresentar/{{nome}}
+
+###
+
+POST {{ModuloAPI_HostAddress}}/Contato
+Accept: application/json
+Content-Type: application/json
+
+{
+  "nome": "Gabriel",
+  "telefone": "(31) 98645-9904",
+  "ativo": true
+}
+###
+
+GET {{ModuloAPI_HostAddress}}/Contato/ObterTodos
+
+###
+
+GET {{ModuloAPI_HostAddress}}/Contato/{{id}}
+
+###
+
+GET {{ModuloAPI_HostAddress}}/Contato/ObterPorNome?nome={{nome}}
+
+###
+
+PUT {{ModuloAPI_HostAddress}}/Contato/{{id}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "nome": "Rodrigo Araujo",
+  "telefone": "(31) 97101-7762",
+  "ativo": true
+}
+###
+
+DELETE {{ModuloAPI_HostAddress}}/Contato/{{id}}
+
+###
